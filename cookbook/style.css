@@ -1,0 +1,107 @@
+body{
+    background-color: burlywood;
+}
+h1{
+    color: white;
+    background-color: green;
+    text-align: center;
+    font-style: italic;
+    font-size: 48px;
+}
+h2{
+    text-align:center;
+    font-size: 30px;
+    font-style: italic;
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.navigation{
+    font-size: 25px;
+    color: white;
+    font-style: italic;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#banner{
+    text-align: center;
+    background-color: red;
+}
+.flag{
+    margin: 0px;
+    height: 50px;
+}
+#intro{
+    text-align: center;
+    font-style: initial;
+    font-size: 20px;
+    margin-top: 100px;
+}
+
+#yum{
+    width: 50%;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.btm{
+    display: inline-block;
+    font-size: 20px;
+    font-style: initial;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: white;
+}
+
+    #ft{
+        text-align: center;
+        background-color: darkolivegreen;
+    }
+
+    #hb{
+        font-size: 25px;
+        color: white;
+        margin-top: 10px;
+    }
+    #hd{
+        text-align: center;
+        font-size: 30px;
+        font-style: initial;
+        color: black;
+        margin-top: 200px;
+    }
+    #las{
+        width: 500px;
+        height: 400px;
+        margin-left: auto;
+        margin-right: auto;
+        align-items: center;
+        display: block;
+    }
+    #rez{
+        font-style: initial;
+        color: rgb(176, 9, 9);
+        text-align:justify;
+        font-size: 30px;
+    }
+.side{
+    font-style: initial;
+    color: black;
+    font-size: 20px;
+    text-align: justify;
+}
+#cncln{
+    font-style: initial;
+    color: black;
+    text-align:justify;
+    font-size: 25px;
+}
